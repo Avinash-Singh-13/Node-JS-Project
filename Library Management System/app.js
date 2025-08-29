@@ -8,7 +8,7 @@ let books = [
     {
         bookName: "Rudest Book Ever",
         bookAuthor: "Shwetabh Gangwar",
-        bookPages: 200,
+        bookPages: 200, 
         bookPrice: 240,
         bookState: "Available"
     },
